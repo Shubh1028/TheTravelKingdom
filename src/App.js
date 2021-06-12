@@ -15,7 +15,7 @@ import DestinationForm from './component/DestinationForm';
 import PackageForm from './component/PackageForm';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import UserProfile from './component/UserProfile';
-import Head from './component2/Head'
+
 
 const hist = createBrowserHistory();
 
