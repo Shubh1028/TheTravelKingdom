@@ -1,0 +1,28 @@
+
+/* .inputLoginBox:hover {
+    
+
+  } */
+  .main-container{
+    background-image: linear-gradient(lightblue, blue);
+    height: 100%;
+  }
+  .container-main{
+    background-image: linear-gradient(lightblue,#5B9CFF );
+  }
+::placeholder {
+    /* correct on line 87 after remoing this */
+    font-size: 1rem;
+    color: gray;
+    font-size: 20px;
+  }
+
+@media only screen and (max-width: 540px) {
+    .card-of-login{
+      width: 98% !important;
+      margin-left:  1% !important;
+    }
+    .login-image{
+        margin-left: 50px !important;
+    }
+  }

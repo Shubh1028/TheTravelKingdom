@@ -1,0 +1,9 @@
+@media only screen and (max-width: 540px) {
+    .carousel-of-destination{
+        height: 100%!important;
+        width: 100%!important;
+    }
+    .destination-outer-container{
+        margin: 0px!important;
+    }
+  }
